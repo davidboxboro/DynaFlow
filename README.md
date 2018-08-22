@@ -1,4 +1,4 @@
-# Var-CNN and DynaFlow
+# DynaFlow
 
 This repository contains the code and data set for the attack model and defense described in the following paper:
 
