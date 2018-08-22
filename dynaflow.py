@@ -1,10 +1,3 @@
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import print_function
-
-import sys
-import os
-
 data_loc = "batches/batch-primes"
 choices_loc = "choices/choices-primes"
 suffix = "-defended"
