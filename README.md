@@ -2,15 +2,12 @@
 
 This repository contains the code and data set for the attack model and defense described in the following paper
 
-[Var-CNN and DynaFlow: Improved Attacks and Defenses for Website Fingerprinting](https://arxiv.org/abs/1802.10215)
+DynaFlow: An Efficient Website Fingerprinting Defense Based on Dynamically-Adjusting Flows
 
-David Lu, [Sanjit Bhat](https://people.csail.mit.edu/sanjit-bhat/), [Albert Kwon](http://www.albertkwon.com), and [Srinivas Devadas](https://people.csail.mit.edu/devadas/).
-
-### Citation
-If you find DynaFlow useful in your research, please consider citing:
+David Lu, Sanjit Bhat, Albert Kwon, Srinivas Devadas 
 
 ### Setup  
-1. Clone this repo: ```git clone https://github.com/sanjit-bhat/Var-CNN--DynaFlow```
+1. Clone this repo: ```git clone https://github.com/davidboxboro/DynaFlow```
 2. Inside, make sub-directories called ```choices``` and ```batches```.
 3. Inside ```batches```, run 
    ```shell
