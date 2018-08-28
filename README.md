@@ -1,6 +1,6 @@
 # DynaFlow
 
-This repository contains the code and data set for the attack model and defense described in the following paper:
+This repository contains the code and data set for the defense described in the following paper:
 
 DynaFlow: An Efficient Website Fingerprinting Defense Based on Dynamically-Adjusting Flows
 
