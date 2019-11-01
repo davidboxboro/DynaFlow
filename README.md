@@ -2,7 +2,7 @@
 
 This repository contains the code and data set for the defense described in the following paper:
 
-DynaFlow: An Efficient Website Fingerprinting Defense Based on Dynamically-Adjusting Flows
+[DynaFlow: An Efficient Website Fingerprinting Defense Based on Dynamically-Adjusting Flows](http://people.csail.mit.edu/devadas/pubs/wpes18.pdf)
 
 David Lu, Sanjit Bhat, Albert Kwon, Srinivas Devadas 
 
