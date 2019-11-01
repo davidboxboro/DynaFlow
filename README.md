@@ -23,7 +23,7 @@ David Lu, Sanjit Bhat, Albert Kwon, Srinivas Devadas
 5. To run other configurations of your choice, change the parameters at the bottom of ```dynaflow.py```. Make sure the paths at the bottom of ```optimal_closed.py``` and ```optimal_open.py``` correspond with those found in ```dynaflow.py```. 
 
 ## Contact
-davidlu (at) gmail.com
+davidlu (at) mit.edu
 
 sanjit.bhat (at) gmail.com
 
